@@ -1,0 +1,38 @@
+{
+  "name": "spinplay-test",
+  "version": "1.0.0",
+  "description": "test fro",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/el-greko/spinplay-test.git"
+  },
+  "keywords": [
+    "spinplay",
+    "test",
+    "pixi",
+    "webpack"
+  ],
+  "author": "Serhii Iuspov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/el-greko/spinplay-test/issues"
+  },
+  "homepage": "https://github.com/el-greko/spinplay-test#readme",
+  "dependencies": {
+    "gsap": "^3.11.5",
+    "pixi.js": "^7.2.4"
+  },
+  "devDependencies": {
+    "@types/pixi.js": "^4.6.0",
+    "copy-webpack-plugin": "^11.0.0",
+    "html-webpack-plugin": "^5.5.1",
+    "http-server": "^14.1.1",
+    "typescript": "^5.0.4",
+    "webpack": "^5.83.1",
+    "webpack-cli": "^5.1.1"
+  }
+}
